@@ -1,6 +1,7 @@
 honesty is the best policy
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 #yogita
 =======
  #  yogita
@@ -30,3 +31,9 @@ change by ishika"helloeveryone"
  (Aishwarya) 
 changes made by Aishwarya 
 >>>>>>> virk6/aish3
+=======
+//yogita
+//change made at third line by ishita
+
+
+>>>>>>> virk6/ishita1
